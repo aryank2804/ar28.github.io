@@ -7,17 +7,19 @@ first_name: Aryan
 middle_name:
 last_name: Khurana
 contact_note: >
-  Feel free to reach out via email or LinkedIn. # Example, you can change this
+  Feel free to reach out via email or LinkedIn.
 
 description: > # Changed this
   [cite_start]B.E. student at BITS Pilani[cite: 4]. [cite_start]Researching neurosymbolic AI[cite: 8], 
   [cite_start]multimodal foundation models [cite: 15, 16][cite_start], and mechanistic interpretability[cite: 20].
-
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: > # Changed this
   Aryan Khurana, BITS Pilani, Neurosymbolic AI, LLM, VLM, 
   Mechanistic Interpretability, Computer Vision, Robotics
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://aryank2804.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
